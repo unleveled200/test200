@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", MULTIVISION FEDERAL internet
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", canal 7 jujuy internet
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", el 10 tv salta
+https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
+#EXTINF:0 type="stream" channelId="-1", canal 7 sta
+https://panel.dattalive.com/8074/8074/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", millenium tv salta
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", canal 9 litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", telefe salta
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0246
+#EXTINF:0 type="stream" channelId="-1", tv dos salta
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0244
+#EXTINF:0 type="stream" channelId="-1", nortevision
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0242
+#EXTINF:0 type="stream" channelId="-1", canal 10 rio negro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0240
+#EXTINF:0 type="stream" channelId="-1", telefe bs.as 
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:0 type="stream" channelId="-1", LOS PADRINOS MAGICOS - EL DESEO SECRETO DE TIMMY 
+https://dl.dropbox.com/s/orytrm2anrr2y1m/08x02-3%20El%20Deseo%20Secreto%20De%20Timmy.mp4?dl=0
+#EXTINF:0 type="stream" channelId="-1", KID VS KAT 
+https://dl.dropbox.com/s/za3cac8eu169ljd/videoplayback%20%2814%29.mp4?dl=0
+#EXTINF:0 type="stream" channelId="-1", WALL-E 
+http://fina.dyndns.tv/Peliculas/WALL-E.mkv
